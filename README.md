@@ -100,8 +100,8 @@ sudo_user = {ایدی عددی},
 _________________________
 خب ربات شما الان امادست ان را به سوپر گروه ها و یا گروه های معمولی ببرید و انهارا ویران کنید ☺☺☺☺☺☺
 _______________________________
-[kingbotpluss](https://telegram.me/kingbotpluss)
+[KINGBOTTEAM](https://telegram.me/KINGBOTTEAM)
 کانال ما در تلگرام دنبال کنید 
 _________________________
 سازنده ربات 
-[@mehdisudo](https://telegram.me/mehdisudo)
+[@mehdiisudo](https://telegram.me/mehdiisudo)
